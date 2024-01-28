@@ -20,6 +20,12 @@ yarn install
 bun install
 ```
 
+Remember to create an .env file and include the following configuration:
+
+```bash
+API_BASE_URL=https://apiurl.com/api
+```
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
